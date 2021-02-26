@@ -1,0 +1,1 @@
+echo "# My vimrc file"
