@@ -12,8 +12,9 @@ filetype off                  " required
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
+	Plugin 'tpope/vim-surround'
         Plugin 'VundleVim/Vundle.vim'
-
+	Plugin 'vim-airline/vim-airline'
         Plugin 'preservim/nerdtree'
 
 " All of your Plugins must be added before the following line
