@@ -13,7 +13,7 @@ On normal mode (press ESC to enter normal mode):
 - :s/old/new/g - to substitute a word
 - %s/old/new/g - to substitute all old word occurrencies
 - :set nu - to put number on the left side
-- :syn on to enable syntax highlight
+- :syn on - to enable syntax highlight
 - :colorscheme darkblue - to set the color scheme to darkblue (you can press tab after writing "colorscheme" to navigate through options)
 
 # Navigate
@@ -23,4 +23,4 @@ On normal mode (press ESC to enter normal mode):
  - l - right
  - h - left
 
-In this navigaation mode we can use, for example, 3k to go 3 rows up, it can be any number, and the same works with order navigation keys.
+In this navigation mode we can use, for example, 3k to go 3 rows up, it can be any number, and the same works with order navigation keys.
