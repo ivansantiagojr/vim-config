@@ -20,6 +20,7 @@ call vundle#begin()
         Plugin 'preservim/nerdtree'
 	Plugin 'tpope/vim-surround' "ysw)
 	Plugin 'dracula/vim', { 'name': 'dracula' }
+	Plugin 'tpope/vim-commentary'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
