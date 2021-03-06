@@ -24,3 +24,17 @@ On normal mode (press ESC to enter normal mode):
  - h - left
 
 In this navigation mode we can use, for example, 3k to go 3 rows up, it can be any number, and the same works with order navigation keys.
+
+#NERDTree commands
+
+ - CTRL + N - opens files tree
+ - CTRL + T - toggles between file and tree
+
+#Vim-surround commands
+
+ - ysw) to surround with ()
+
+#Vim commentary commands
+
+ When a text is selected in visual mode, the command "gc" will comment the text
+
