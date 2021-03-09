@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ivan/Documents/CorreAtrasClient'
+let g:netrw_dirhist_2='/home/ivan/Documents/CorreAtrasClient/src'
+let g:netrw_dirhist_3='/home/ivan/Documents/CorreAtrasClient/src/containers'
+let g:netrw_dirhist_4='/home/ivan/Documents/CorreAtrasClient/src/containers/RegisterEstate'
+let g:netrw_dirhist_5='/media/ivan/Backup/debianbackup/Documentos/cursojs/aula11'
+let g:netrw_dirhist_6='/home/ivan/Documents/CorreAtrasClient/src'
+let g:netrw_dirhist_7='/home/ivan/Documents/CorreAtrasClient/src/containers'
+let g:netrw_dirhist_8='/home/ivan/Documents/CorreAtrasClient/src/containers/RegisterEstate'
